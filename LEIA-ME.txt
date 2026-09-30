@@ -1,0 +1,8 @@
+Abra GUIA_NETLIFY.html no navegador para seguir o passo a passo.
+
+Deploy: node build.mjs / pasta dist / branch main.
+Login: Decap + GitHub OAuth, configurado no Netlify.
+Variável de build: GITHUB_REPOSITORY=SEU_USUARIO/SEU_REPOSITORIO.
+
+Os dados iniciais são demonstrativos; a logo fornecida está incluída.
+O layout foi adaptado a partir dos quatro prints do modelo fornecidos.
